@@ -1,0 +1,101 @@
+image_name,instruction
+abbey_road,Tag the band members on the cover of Abbey Road
+big_bang_theory,Tag the 7 main characters on the TV show Big Bang Theory
+beatles,Tag the members of The Beatles
+car_logos,Tag the car logos of these top 5 German car companies
+cars,Tag these cars with the popular car types
+dog_breeds,Tag the dogs with 30 popular dog breeds
+dog_breeds2,Tag the dog breeds
+female_leaders_bottom_row,"Tag these women leaders of Germany, Taiwan, and New Zealand"
+female_leaders_top_row,"Tag the female prime ministers of Denmark, Iceland, Finland, and Norway after 2015"
+friends,Tag the main cast of the TV show Friends
+german_cars,Tag these German cars with top 5 german car manufacturers
+india_japan_us_flags,Tag the flags with their countries with large populations
+james_bond,Tag these 6 actors who played the role of James Bond
+james_bond_subset,Tag the actors who played James Bond in Tomorrow Never Dies and Casino Royale
+kapil_dev,Tag the captain of the Indian cricket team during the 1983 World Cup
+khans_and_hritik,Tag the 3 khans of Bollywood
+oren,Tag the CEO of the Allen Institute for Artificial Intelligence
+scandinavian_flags,Tag these Scandinavian flags with their countries
+triwizard_champions,Tag these 4 Triwizard Tournament champions
+trudeau_modi,Tag these prime ministers of North American and Asian countries
+chemistry_nobel_1,Tag the three chemistry nobel laureates in 2018 year
+chemistry_nobel_2,Tag the female nobel laureate in chemistry from 2018
+ceo_1,Tag the CEO of Google
+ceo_2,Tag the most recent CEO of IBM
+ceo_3,Tag the CEO of Adobe
+ceo_4,Tag the CEO of Microsoft
+ceo_5,Tag the CEOs of Microsoft and Google
+ceo_6,"Tag the CEOs of Adobe, Google and Microsoft"
+us_president,Tag the 44th USA Presidentus
+apollo_11,Tag the three crew members of Apollo 11 mission
+tech_logo,Tag the logos of top five silicon valley tech companies
+bridgerton_1,Tag the duke in Bridgerton Season 1
+bridgerton_2,Tag the main leads of Bridgerton Season 1
+bridgerton_3,Tag the Bridgerton lady who married Duke in Season 1
+friends_1,Tag the three female lead characters from Friends series
+friends_2,Tag the three male lead characters from Friends series
+friends_3,Tag the six lead characters from Friends series
+friends_4,Tag the actor who played Chandler Bing in Friends series
+friends_5,Tag the actor who played Ross Geller in Friends series
+friends_6,Tag the character who was married to Chandler Bing in TV show Friends
+brad_1,Tag the first wife of Brad Pitt
+brad_2,Tag the second wife (1) of Brad Pitt
+jonas_brothers,Tag the Jonas brother (1) who married the Indian actress Priyanka Chopra
+road_sign_1,Tag these common red and yellow american road signs
+road_sign_2,"Tag the road sign that has a triangle, with one point facing down"
+road_sign_3,Tag the common american road signs that has yellow
+kitchen_1,Tag the kitchen appliance that is used to make coffee
+kitchen_2,Tag the wooden board that vegetables are placed on for chopping
+kitchen_3,Tag the kitchen appliance that is used to heat food
+flower_1,Tag these famous flowers
+flower_2,Tag the national flower of country India
+flower_3,Tag the flower that a boy give to his girlfriend on valentine's day
+flower_4,Tag the flower which produces edible seeds
+laptop_1,Tag the laptop with the company that uses the MacOS
+laptop_2,Tag the laptop with windows laptop manufacturers
+laptop_3,Tag these laptops by popular laptop companies in the US
+ball_a_1,Tag these sports balls with popular ball-based sports
+ball_a_2,Tag the type of sports ball used for popular outdoor sports
+ball_a_3,Tag the type of sports ball that is played with a racket and the net
+ball_b_1,Tag the green ball with the sports name it is used for
+ball_b_2,Tag the type of sports ball used for popular ball-based outdoor sports
+ball_b_3,Tag the spherical balls with popular ball-based sports
+young_1,Tag the female characters in popular TV series Young Sheldon
+young_2,Tag the male characters (3) in popular TV series Young Sheldon
+young_3,Tag the twin siblings characters from popular TV series Young Sheldon
+young_4,Tag the wife of George Cooper Sr. in popular TV series Young Sheldon
+office_1,Tag the owner of Schrute Farms from poular TV series The Office
+office_2,Tag the characters from popular TV series The Office
+office_3,Tag the wife of Jim Halpert in popular TV series The Office
+gemstone_1,Tag these gemstones
+gemstone_2,Tag the popular green gemstone (5)
+gemstone_3,Tag the blue gemstone (1)
+gemstone_4,Tag the gemstone for July birth month
+gemstone_5,Tag the gemstone for May birth month
+gemstone_6,Tag the gemstone for September birth month
+gemstone_7,Tag the gemstone used in engagement ring
+painting_b_1,Tag these famous paintings 
+painting_b_2,Tag the paintings made by Leonardo da Vinci
+painting_b_3,Tag the (30) paintings made by Vincent Van Gogh
+painting_b_4,Tag these famous paintings with their painters
+painting_b_5,Tag the famous paintings made by an Italian painter
+painting_b_6,Tag the paintings made by a famous Dutch post-impressionist painter
+painting_a_1,Tag the painting of Girl with a Pearl Earring with its painter
+painting_a_2,Tag these famous paintings (30)
+space_female,Tag the female astronauts (2) from STS-107 mission
+nut_1,Tag these bowls with nuts and dried fruits
+nut_2,Tag the bowl with the dried fruit that comes from grapes
+ocean11_1,Tag the characters from Danny's crew from the movie Ocean's Eleven
+ocean11_2,Tag the actors who played characters from Danny's crew in the movie Ocean's Eleven
+ocean12_1,Tag these famous actors who worked together in the movie Ocean's Eleven
+ocean12_2,Tag the husband of Angelina Jolie
+birds_1,Tag these birds (30)
+birds_2,Tag the bird which is known to imitate human sound (5)
+study_1,Tag funitures
+study_2,Tag electronic devices
+study_3,Tag stationery
+study_4,Tag the cup with beverage
+movie_fr_1,Tag these famous movie franchises
+movie_fr_2,Tag the movie franchise based on books by J. K. Rowling
+harry_potter,Tag these eight harry potter movie posters with the name of the movie

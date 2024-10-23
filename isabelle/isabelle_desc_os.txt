@@ -1,0 +1,31 @@
+I am defining a new programming language, "theoremPL", that you must use to prove the theorem statement provided to you. 
+
+The keywords of the language are:
+
+"abcx": This keyword is used to declare the start of a theorem. The name of the theorem follows this keyword. Theorems represent mathematical truths.
+
+"defy": This keyword is used to declare a variable in the context of the current theorem. 
+
+"ghiz": This keyword is used to declare the assumptions of the theorem. Assumptions are premises or logical statements that are taken as given for proving the theorem.
+
+"jklx": This keyword is used to chain multiple assumptions or multiple goals together in a single statement. In the context of assumptions, this allows you to state several assumptions in a single "ghiz" block. Each assumption will be separated by this keyword and can be referred to individually in the proof. In the context of goals, if you have multiple things to prove, you can use this to state all these goals at once in an "mno" block. Then, in the proof, you can prove each goal one by one. The proof is only complete when all goals have been proven.
+
+"mnoy": This keyword is used to declare the conclusion of the theorem. It represents the statement that needs to be proved.
+
+"pqrz" : This keyword is used to establish intermediate facts within the proof. It essentially allows us to break down the proof into smaller, more manageable pieces. After this keyword, you state some logical statement that you believe to be true and that you want to prove. The proof of this statement is then provided after this line. You should support this statement with previous hypothesis specified by the "stux" keyword explained below.
+
+"stux": This keyword is used to specify the assumptions or previously proved facts that will be used to prove the current fact.
+
+"vwxy" : This is a powerful automatic proof tool or method that attempts to prove the statement immediately preceding it. It is often used after "pqrz" to prove the intermediate fact. It uses a variety of automated reasoning tools to find the proof.
+
+"yzaz" : This keyword is used to refer to the fact that was just proven. It allows you to use the result of one line in the next line of the proof. 
+
+"cefx" : This keyword is similar to "pqrz", but is used to prove the final goal or thesis. It is used to state what we want to prove and is followed by the proof of this statement.
+
+"hijy" : This is a special term that refers to the statement of the theorem we are trying to prove. In other words, it's a placeholder for the goal of the proof. You do not need to state the logical statement again after this.
+
+"klmz" : This keyword is used to end a proof or sub-proof.
+
+Logical statements are enclosed in double quotes such as "abs ((120::real) / 100 * 30 - 130 / 100 * 20) = 10". Logical statements can be assigned a name such as "h0" or "h1" for instance when they are used with keywords such as "ghiz", etc. For instance: pqrz h2 : "<statement>" stux h0 h1.
+
+Now, using only the above keywords provided to you, prove the following theorem. Do not worry about syntax. You will not need to use the "abcx", "defy", "ghiz", "jklx", and "mnoy" keywords.
